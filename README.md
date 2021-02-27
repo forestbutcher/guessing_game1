@@ -1,2 +1,2 @@
-# guessing_game1
+Techdegree
 Project 1
